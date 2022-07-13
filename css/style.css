@@ -120,6 +120,11 @@ body{
     text-align: center;
     margin: 0 0 0 65px;
 }
+.design_button:hover{
+    background: white;
+    color: black;
+    border: 1px solid #BCD0E5;
+}
 .tools_title{
     font-size: 36px;
     font-weight: 700;
@@ -174,6 +179,11 @@ body{
     line-height: 24px;
     letter-spacing: 0px;
     text-align: center;
+}
+.tools_button:hover{
+    background: white;
+    color: black;
+    border: 1px solid #BCD0E5;
 }
 .tools_button_block{
     display: flex;
@@ -301,4 +311,9 @@ body{
     font-weight: 700;
     margin: 25px 0px;
     font-family: Poppins;
+}
+.footer_button:hover{
+    background: white;
+    color: black;
+    border: 1px solid #BCD0E5;
 }
